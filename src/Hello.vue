@@ -1,10 +1,11 @@
-<script setup></script>
+<script setup>
+
+import James from './James.vue';
+
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-   Hello There 
-  </p>
+  <James></James>
 </template>
 
 <style scoped></style>

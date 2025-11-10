@@ -1,10 +1,11 @@
-<script setup></script>
+<script setup>
+
+import Hello from './Hello.vue';
+
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-   Hello There 
-  </p>
+  <Hello></Hello>
 </template>
 
 <style scoped></style>
