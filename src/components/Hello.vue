@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <p class="james">DUNE</p>
+  james 
 </template>
 
 <style scoped>
