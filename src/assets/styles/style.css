@@ -1,3 +1,6 @@
-* {
-    background-color: red;
+@font-face {
+  font-family: "custom_dune";
+  src: url("@/assets/fonts/Dune_Rise.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
 }

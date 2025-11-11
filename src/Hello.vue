@@ -1,11 +1,13 @@
 <script setup>
-
-import James from './James.vue';
-
 </script>
 
 <template>
-  
+  <p class="james">DUNE</p>
 </template>
 
-<style scoped></style>
+<style scoped>
+.james {
+  font-family: "custom_dune", sans-serif;
+  font-size: 24px;
+}
+</style>
