@@ -2,6 +2,7 @@
 
 import Hello from './Hello.vue';
 
+
 </script>
 
 <template>
