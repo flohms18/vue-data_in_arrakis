@@ -4,7 +4,7 @@
 <template>
     <div class="MyFooter text-center pt-3 fs-italic">
         <p class="james">Created by Florent Trouillet</p>
-        <p>Visit my DATAVERSE for more at <a>https://dataverse-ft.com/</a></p>
+        <p class="subtitle-text">Visit my personal blog for more at <a class="MyLink"href="https://dataverse-ft.com/">DATAVERSE</a></p>
     </div>
     
 </template>
@@ -12,7 +12,17 @@
 <style scoped>
 
 .MyFooter {
+    background-color: #F8F9FA;
     min-height: 100px;
-    background-color: red;
+}
+
+.MyLink {
+
+    color: #5562ea;
+}
+
+.subtitle-text {
+    font-family: 'Poppins',sans-serif;
+    font-weight: bold;
 }
 </style>
