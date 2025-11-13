@@ -7,6 +7,10 @@ import Footer from './Footer.vue';
 <template>
   <Header></Header>
   <div class="parallaxFirst">
+    <div class="Main_Title text-center">
+      <h1 class="james">DATAKIS</h1>
+      <p class="lead">Data Knowledge is power over future</p>
+    </div>
   </div>
   <div class="parallaxSecond">
       <h1 class="james">DUNE</h1>
@@ -58,6 +62,11 @@ import Footer from './Footer.vue';
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.Main_Title {
+  padding-top: 100px;
+
 }
 
 

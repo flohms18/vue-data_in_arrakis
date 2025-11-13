@@ -14,7 +14,7 @@
           <a class="nav-link" href="#">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Data Governane</a>
+          <a class="nav-link" href="#">Data Governance</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" tabindex="-1">Disabled</a>
