@@ -8,9 +8,9 @@ import Footer from './Footer.vue';
   <Header></Header>
   <div class="parallaxFirst">
       <h1 class="james">DUNE</h1>
-      <div class="toto">
-        James 
-      </div>
+  </div>
+  <div class="parallaxSecond">
+      <h1 class="james">DUNE</h1>
   </div>
   <Footer></Footer>
 </template>
@@ -27,13 +27,14 @@ import Footer from './Footer.vue';
   background-size: cover;
 }
 
-.toto {
-  height: 300px;
-  display: block;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 50px;
-  font-family: "custom_dune", sans-serif;
+.parallaxSecond {
+  background-image: url("./src/assets/images/sardokhar.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+
 </style>
