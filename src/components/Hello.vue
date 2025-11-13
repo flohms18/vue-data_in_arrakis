@@ -7,7 +7,6 @@ import Footer from './Footer.vue';
 <template>
   <Header></Header>
   <div class="parallaxFirst">
-      <h1 class="james">DUNE</h1>
   </div>
   <div class="parallaxSecond">
       <h1 class="james">DUNE</h1>
