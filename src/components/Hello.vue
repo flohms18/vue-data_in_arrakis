@@ -12,6 +12,13 @@ import Footer from './Footer.vue';
   <div class="parallaxSecond">
       <h1 class="james">DUNE</h1>
   </div>
+
+  <div class="parallaxThird">
+      <h1 class="james">DUNE</h1>
+  </div>
+  <div class="parallaxFourth">
+      <h1 class="james">DUNE</h1>
+  </div>
   <Footer></Footer>
 </template>
 
@@ -29,6 +36,24 @@ import Footer from './Footer.vue';
 
 .parallaxSecond {
   background-image: url("./src/assets/images/sardokhar.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxThird {
+  background-image: url("./src/assets/images/caladan.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxFourth {
+  background-image: url("./src/assets/images/imperium.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
