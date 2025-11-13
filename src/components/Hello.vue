@@ -27,7 +27,7 @@ import Footer from './Footer.vue';
 
 .parallaxFirst {
   background-image: url("./src/assets/images/dune-wallpaper.jpeg");
-  min-height: 500px;
+  min-height: 1000px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
