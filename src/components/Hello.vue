@@ -16,9 +16,8 @@ import Footer from './Footer.vue';
   </div>
   <div class="parallaxSecond">
     <div class="Second_Title text-center">
-       <div class="second-intro-datakis text-white">
-            In Dune, authority is shared by the Great Houses under the rule of the Imperium, <br>with the balance of power ultimately defined by control of the Spice.
-    </div>
+       <div class="second-intro-datakis text-white w-75">
+In Dune, power is divided among the Great Houses and governed by the Imperium, all of which ultimately depends on control of the Spice. A resource as central to their universe as data is to ours. Also a source of conflict, the control of Arrakis for Spice's exploration</div>
     </div>
    
   </div>
