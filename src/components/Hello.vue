@@ -9,7 +9,7 @@ import Footer from './Footer.vue';
   <div class="parallaxFirst">
     <div class="Main_Title text-center">
       <h1 class="james">DATAKIS</h1>
-      <p class="lead">Data Knowledge is power over future</p>
+      <p class="subtitle-dune">Those who understand data, shape the data-driven future</p>
     </div>
   </div>
   <div class="parallaxSecond">
@@ -68,6 +68,8 @@ import Footer from './Footer.vue';
   padding-top: 100px;
 
 }
+
+
 
 
 </style>

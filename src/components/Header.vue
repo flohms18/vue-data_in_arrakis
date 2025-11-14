@@ -14,10 +14,10 @@
           <a class="nav-link" href="#">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Data Governance</a>
+          <a class="nav-link" href="#">The Spice</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" tabindex="-1">Disabled</a>
+          <a class="nav-link" href="#" tabindex="-1">Data Management</a>
         </li>
       </ul>
     </div>
