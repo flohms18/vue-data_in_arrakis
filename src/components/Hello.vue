@@ -15,7 +15,12 @@ import Footer from './Footer.vue';
     </div>
   </div>
   <div class="parallaxSecond">
-      <h1 class="james">DUNE</h1>
+    <div class="Second_Title text-center">
+       <div class="second-intro-datakis p-5 text-white">
+            In Dune, authority is shared by the Great Houses under the rule of the Imperium, <br>with the balance of power ultimately defined by control of the Spice.
+    </div>
+    </div>
+   
   </div>
 
   <div class="parallaxThird">
@@ -69,6 +74,7 @@ import Footer from './Footer.vue';
 .Main_Title {
   padding-top: 100px;
 
+
 }
 
 .intro-datakis {
@@ -81,8 +87,18 @@ import Footer from './Footer.vue';
 
 }
 
+.second-intro-datakis {
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  font-size: 24px;
+  margin-right: auto;
+  font-family: "subtitle_dune_font", sans-serif
+}
+
 .subtitle-dune {
-    font-size: 24px;
+    padding-top: 50px;
+    font-size: 18px;
     font-family: "subtitle_dune_font", sans-serif
   
 }
