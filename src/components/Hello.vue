@@ -16,8 +16,8 @@ import Footer from './Footer.vue';
   </div>
   <div class="parallaxSecond">
     <div class="Second_Title text-center">
-       <div class="second-intro-datakis text-white w-50">
-Power flows to those who control the Spice, shaping every action across the Imperium. In much the same way, data has become a critical resource—one that sets direction, unlocks value, and powers every meaningful innovation.</div>
+       <div class="second-intro-datakis text-white w-50 pt-5">
+In much the same way, data has become a critical resource—one that sets direction, unlocks value, and powers every meaningful innovation.</div>
     </div>
    
   </div>
@@ -52,9 +52,7 @@ Power flows to those who control the Spice, shaping every action across the Impe
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
 }
 
 .parallaxThird {
@@ -64,6 +62,9 @@ Power flows to those who control the Spice, shaping every action across the Impe
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   
 }
 
@@ -96,9 +97,9 @@ Power flows to those who control the Spice, shaping every action across the Impe
 
 .second-intro-datakis {
   height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 20px;
   font-family: "subtitle_dune_font", sans-serif
 }
