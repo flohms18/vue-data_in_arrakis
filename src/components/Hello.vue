@@ -16,8 +16,8 @@ import Footer from './Footer.vue';
   </div>
   <div class="parallaxSecond">
     <div class="Second_Title text-center">
-       <div class="second-intro-datakis text-white w-50 pt-5">
-In much the same way, data has become a critical resource—one that sets direction, unlocks value, and powers every meaningful innovation.</div>
+       <div class="second-intro-datakis text-white w-50">
+In much the same way, as part of digital transformation, organisations are now treating data as a critical resource that sets direction, unlocks value and powers every meaningful innovation.</div>
     </div>
    
   </div>
@@ -100,6 +100,7 @@ In much the same way, data has become a critical resource—one that sets direct
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 20px;
   font-size: 20px;
   font-family: "subtitle_dune_font", sans-serif
 }
